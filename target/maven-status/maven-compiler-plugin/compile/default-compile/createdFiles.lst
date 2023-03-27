@@ -1,0 +1,13 @@
+net\mindmc\gigantwars\commands\GWSetupCommand.class
+net\mindmc\gigantwars\instance\Arena.class
+net\mindmc\gigantwars\Minigame.class
+net\mindmc\gigantwars\managers\ArenaManager.class
+net\mindmc\gigantwars\instance\Countdown.class
+net\mindmc\gigantwars\instance\Game.class
+net\mindmc\gigantwars\utils\Format.class
+net\mindmc\gigantwars\listeners\GameListener.class
+net\mindmc\gigantwars\managers\CommandManager.class
+net\mindmc\gigantwars\commands\GWMainCommand.class
+net\mindmc\gigantwars\GameState.class
+net\mindmc\gigantwars\listeners\ConnectListener.class
+net\mindmc\gigantwars\managers\ConfigManager.class

@@ -1,0 +1,7 @@
+name: GigantWars
+version: '1.0-SNAPSHOT'
+main: net.mindmc.gigantwars.Minigame
+api-version: 1.19
+commands:
+  gw:
+  gwsetup:
